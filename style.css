@@ -1,0 +1,120 @@
+.navbar{
+	position:fixed;
+	Top:0px;
+	right: 5px;
+	height:30px;
+	display: block;
+	clear:both;
+	
+}
+.menu{
+	float:right;
+	width:20em;
+
+}
+.menuitems{
+	float:left;
+	display:inline-block;
+	padding:5px;
+	
+}
+.topsignin{
+	background-color:blue;
+	color: white;
+	border:0;
+	float:right;
+	height: 25px;
+}
+.topsignin a{
+	color: white;
+	text-decoration:none;
+}
+.body{
+	display:block;
+	clear:right;
+	text-align:center;
+	height:92px;
+	width:100%;
+	margin: auto;
+	padding-top:100px;
+}
+.logos{
+	
+	margin:auto;
+	clear:both;
+	height: 92px;
+	width: 272px;
+	background:url( https://www.google.co.in/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png) norepeat;
+	color:blue;
+	padding-top:109px;
+	display:block;
+}
+
+.search{
+	margin:auto;
+	clear:both;
+	padding-top: 25px;
+}
+#search{
+	height:35px;
+	width: 700px;
+	border: 1px solid blue;
+}
+.buttons{
+	margin:auto;
+	clear:both;
+	display:block;
+
+}
+.lowerbuttons{
+	margin:auto;
+	clear:both;
+	display:block;
+}
+
+.lbutton{
+	display:inline-block;
+	padding:10px;
+	margin:auto;
+	}
+.lbt{
+	height: 40px;
+	color:gray;
+	
+}
+.lb{
+	padding:2px;
+	font-size: 25px;
+	font-family: sans-serif;
+	text-decoration:none;
+	color:black;
+}
+.text-below-buttons{
+	clear:both;
+	text-align:center;
+	
+}
+.footer{
+	clear:both;
+	background-color:#f2f2f2;
+	height: 50px;
+	position: absolute;
+	display:block;
+	bottom: 0px;
+	width: 100%;
+	border-top: 1px solid #e4e4e4;
+}
+.footer-menu-left
+{float:left;
+display:inline-block;
+font-family: serif;	
+}
+.footer-menu-right
+{float:right;
+display:inline-block;
+font-family: serif;	
+}
+.fmenu-items{
+	display:inline-block;
+	padding:0px 10px 10px 0px;
+}
